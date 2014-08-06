@@ -1,5 +1,6 @@
 好點子<br />ideas
 =====
+[https://github.com/Vdragon/ideas](https://github.com/Vdragon/ideas)
 
 A [Git](http://git-scm.com/) repository of ideas  
 一個滿是奇妙想法的 [Git](http://git-scm.com/) 內容倉庫
