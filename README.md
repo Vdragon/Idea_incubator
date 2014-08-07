@@ -10,3 +10,5 @@ A [Git](http://git-scm.com/) repository of ideas, please help incubate them!
 智慧財產授權條款<br />Intellectual property license
 -----
 以個別檔案中指定的授權條款為準，如果無指定的話表示使用 [WTFPL(Do What the Fuck You Want to Public License)](http://www.wtfpl.net/) 授權條款授權
+
+雖然這不在授權範圍要求範圍內，我們仍衷心希望如您得益於此專案的話能夠標註您的想法來源！
